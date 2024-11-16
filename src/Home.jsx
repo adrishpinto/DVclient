@@ -63,7 +63,8 @@ const Home = () => {
                   factors such as impact, likelihood, intensity, and relevance.
                   The data is sourced from reliable online platforms, primarily
                   based in the U.S., including government agencies,
-                  publications, and news outlets.
+                  publications, and news outlets. For more info check about
+                  section.
                 </div>
                 <div className="flex space-x-20">
                   <StatCard
