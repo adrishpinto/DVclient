@@ -43,6 +43,7 @@ function About() {
             index
           </p>
           <a
+            className="mt-5 border-2 border-blue-500 text-2xl font-thin"
             href="https://github.com/adrishpinto/DataVisualization"
             target="_blank"
           >
