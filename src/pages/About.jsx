@@ -3,8 +3,8 @@ import Sidebar from "../components/SideBar";
 function About() {
   return (
     <div className="flex">
-      <div className="w-full  mx-auto p-24">
-        <h1 className="text-5xl mb-20 font-light">Project Details</h1>
+      <div className="w-full mx-auto p-24">
+        <h1 className="text-5xl mb-8 font-light">Project Details</h1>
         <div>
           <div>
             <h1>Definations</h1>
@@ -42,8 +42,10 @@ function About() {
             <span className="text-slate-500">Backend :</span> cd backend __ node
             index
           </p>
+        </div>
+        <div className="mt-10">
           <a
-            className="mt-5 border-2 border-blue-500 text-2xl font-thin"
+            className="border-b-2  text-blue-500 border-blue-500 text-2xl font-semibold "
             href="https://github.com/adrishpinto/DataVisualization"
             target="_blank"
           >
