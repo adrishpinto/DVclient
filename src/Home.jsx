@@ -164,7 +164,7 @@ const Home = () => {
         </div>
       ) : (
         <div className="text-center text-5xl font-thin  mt-20">
-          Server is hosted using free services. Please wait 20-40 seconds for
+          Server is hosted using free services. Please wait 30-60 seconds for
           the data to load.
         </div>
       )}
